@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! My name is Rakib Taluker Rupom 👋</h1>
 
-![Github Banner](./github-banner.png)
+![Github Banner](./victory-day.jpg)
 <h3 align="center">I am a full-stack software developer. A passionate technology lover, a problem solver & always ready to face new challenges</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rrupom" alt="rrupom" /></a> </p>
